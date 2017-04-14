@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f2dcf3cb4d3901af3a6a49fb257e6885559a4b82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1ac2f6704bf1b5b0ee5eff92bea1d365e592dbe0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_79ff15ee71cefdd01054fdc58acf8813fc9edd6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_b0b77efb8642897d47f876b15b377b8a97a741ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_38f479c4c1d77c9018756163b785369dbbd6782f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1cb5cc12c5309a88620ec6bd0d50a5875963ecc3">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3cf5c22eab286e0e08696dc4e2d0117277c2b09b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_7f4d750d09fb9594fd911797e9ecd0a5d4e69e65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_14f1a31f26926244a20392370c534969956d8b85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_b8b52d787aa6d5da155e69fb817ca06b291ee681\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_914c252ab4a16c1bd48f0ff821288f277c10fd49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6ed24e993826e0b0ed6217fd29c11c63878ef5f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_01d04f1b1fc574a9e379422639366b185ca57f68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_d631c63f3a3b6c0645c5c9e691429bbfb806420e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_b7b7348f5d3502e809e63bdaf644e6d26e106b24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1a2404a714087bb6eb77fd405bef0d982a3189da">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d2100e1449169203fcdeea4a8dcab312c06fafe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_366a4493bc41106ca05f84d66966bef515494d1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Antonis\AndroidStudioProjects\WiFiAwareness\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_925461a8fdae5f52223de78809fe0b8e9621d1e7\classes.dex" />
+    </item>
+
+</items>
